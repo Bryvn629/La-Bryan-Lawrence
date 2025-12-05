@@ -25,4 +25,4 @@ I'm an IT Support + Cybersecurity professional specializing in:
 Breaking into IT Support → Cybersecurity by building hands-on experience, advanced labs, and enterprise-level troubleshooting depth.
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/LaBryanLawren
+LinkedIn: https://linkedin.com/in/LaBryanLawrence
